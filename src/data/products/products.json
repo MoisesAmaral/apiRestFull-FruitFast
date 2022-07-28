@@ -1,0 +1,62 @@
+[
+      {
+        "id": 1,
+        "title": "Maça Nacional Vermelha 490g (aprox. 4 Un)",
+        "price": 6.90,
+        "image": "https://i.imgur.com/UyR7DlW.png"
+      },
+      {
+        "id": 2,
+        "title": "Abacaxi Perola Un",
+        "price": 5.50,
+        "image": "https://i.imgur.com/Ld5FRcR.png"
+      },
+      {
+        "id": 3,
+        "title": "Banana Prata 600g (aprox. 6 Un)",
+        "price": 7.80,
+        "image": "https://i.imgur.com/XVn9KxL.png"
+      },
+      {
+        "id": 4,
+        "title": "Manga Tommy 850g (aprox. 2 Un)",
+        "price": 9.40,
+        "image": "https://i.imgur.com/6xmQs77.png"
+      },
+      {
+        "id": 5,
+        "title": "Pera Importada 200g (aprox. 1 Un)",
+        "price": 3.85,
+        "image": "https://i.imgur.com/YINYKpx.png"
+      },
+      {
+        "id": 10,
+        "title": "Pera Importada 200g (aprox. 1 Un)",
+        "price": 3.85,
+        "image": "https://i.imgur.com/YINYKpx.png"
+      },
+      {
+        "id": 6,
+        "title": "Manga Tommy 850g (aprox. 2 Un)",
+        "price": 9.40,
+        "image": "https://i.imgur.com/6xmQs77.png"
+      },
+      {
+        "id": 7,
+        "title": "Maça Nacional Vermelha 490g (aprox. 4 Un)",
+        "price": 6.90,
+        "image": "https://i.imgur.com/UyR7DlW.png"
+      },
+      {
+        "id": 9,
+        "title": "Banana Prata 600g (aprox. 6 Un)",
+        "price": 7.80,
+        "image": "https://i.imgur.com/XVn9KxL.png"
+      },{
+        "id": 8,
+        "title": "Abacaxi Perola Un",
+        "price": 5.50,
+        "image": "https://i.imgur.com/Ld5FRcR.png"
+      }
+      
+    ]
