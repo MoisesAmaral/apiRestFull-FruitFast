@@ -16,7 +16,7 @@ server.get('/stock',cors(corsOptions), (req, res, next) => {
     return res.json({stock});
 });
 
-server.get('/products/:id', cors(corsOptions), (req, res) => {
+server.get('/products', cors(corsOptions), (req, res) => {
     return res.json({products});
 });
 
